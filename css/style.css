@@ -15,6 +15,7 @@ ul{
 }
 button{cursor: pointer;
 background: #4d5ae5;}
+button :hover, button:focus{background-color: #404BBF}
 
 /*-------------header--------------*/
 
@@ -86,11 +87,6 @@ background: #404bbf;}
         letter-spacing: 0.04em;
         color: #fff;
             
-}
-
-.hero-order-btn:hover,
-.hero-order-btn:focus {
-    background: #404bbf;
 }
 
 /*--------------skills---------------*/
@@ -224,12 +220,11 @@ background: #404bbf;}
             line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
-            color:#f4f4fd;
+            color: #4d5ae5;
+
             }
 
-        .footer-web {
-            color: #4d5ae5;
-            
+        .footer-web {color: #f4f4fd; 
         }
     
         .footer-text { 

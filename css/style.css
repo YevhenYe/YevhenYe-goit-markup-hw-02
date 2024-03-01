@@ -3,7 +3,7 @@ body{
     background-color: #fff; 
     text-decoration: none;
     list-style-type: none;
-   color:#434455 ; 
+    color:#434455 ; 
     
 }
 a {
@@ -13,7 +13,8 @@ ul{
     list-style-type: none;
 
 }
-button{cursor: pointer;}
+button{cursor: pointer;
+background: #4d5ae5;}
 
 /*-------------header--------------*/
 
@@ -34,8 +35,9 @@ font-size: 18px; ;
 
 
 .heder-menu-item :hover {
-    color: #404bbf;
-}{
+    color: #404bbf;}
+        .heder-menu-item
+{
     font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -65,12 +67,12 @@ background: #404bbf;}
 }
 
 .hero {
-    text-align: center
         font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
         color: #fff;
+        text-align: center
 
 }
 
@@ -80,10 +82,10 @@ background: #404bbf;}
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-            background: #4d5ae5;
+            
 }
 
-.hero-order-btn:hover,:focus{background: #404bbf;}
+.hero-order-btn:hover :focus{background: #404bbf;}
 
 /*--------------skills---------------*/
 .section-skills{
@@ -92,6 +94,7 @@ background: #404bbf;}
 
 .skills {
     visibility: hidden;
+    
         
 }
 
@@ -103,7 +106,7 @@ background: #404bbf;}
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: ;#2e2f42
+    color: #2e2f42;
     }
 
 
@@ -124,7 +127,8 @@ background: #404bbf;}
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-        text-transform: capitalize
+        text-transform: capitalize;
+        
 }
 
 .team-list {
@@ -141,11 +145,11 @@ background: #404bbf;}
 
 .team-name {
     color: #2e2f42;
-   
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        text-transform: capitalize;
         
 }
 
@@ -153,7 +157,6 @@ background: #404bbf;}
     line-height: 1.5;
     letter-spacing: 0.02em;
         }
-   
     /*-------------------------------------------portfolio------------------------*/
         .section-tem {}
     
@@ -180,6 +183,8 @@ background: #404bbf;}
                 line-height: 1.11;
                 letter-spacing: 0.02em;
                 color: #2e2f42;
+                text-align: center;
+                text-transform: capitalize;
         }
     
         .portfolio-list {}
@@ -194,6 +199,8 @@ background: #404bbf;}
                 line-height: 1.2;
                 letter-spacing: 0.02em;
                 color: #2e2f42;
+                text-align: center;
+                text-transform: capitalize;
         }
     
         .portfolio-text {

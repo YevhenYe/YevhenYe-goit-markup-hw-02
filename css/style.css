@@ -28,10 +28,11 @@ font-size: 18px; ;
     text-transform: uppercase;
     letter-spacing: 0.03em;
     line-height: 1.17;
-    
+    color: #4d5ae5;
         
 }
-.header-web{color: #4d5ae5;}
+
+.header-web{color:#2e2f42;}
 
 
 .heder-menu-item :hover {
@@ -72,7 +73,9 @@ background: #404bbf;}
         line-height: 1.07;
         letter-spacing: 0.02em;
         color: #fff;
-        text-align: center
+        text-align: center;
+    
+
 
 }
 
@@ -94,6 +97,7 @@ background: #404bbf;}
 
 .skills {
     visibility: hidden;
+    color: #2e2f42;
     
         
 }
@@ -217,10 +221,12 @@ background: #404bbf;}
             line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
-            color: #f4f4fd;}
+            color: #4d5ae5;
+            }
 
         .footer-web {
-            color: #4d5ae5;}
+            
+        color: #f4f4fd;}
     
         .footer-text { 
     

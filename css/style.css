@@ -53,16 +53,15 @@ background: #4d5ae5;}
 
 
 
-
 .header-href {
     color: #2e2f42;
     }
     
 
 
-.header-href:hover,
-.header-href:focus {
-    color: #404BBF;
+.heder-menu-item .header-href:hover,
+.heder-menu-item .header-href:focus {
+    color: #404bbf;
 }
 
 /*-----------contacts-----------------*/
@@ -189,25 +188,8 @@ background: #4d5ae5;}
     letter-spacing: 0.02em;
         }
     /*-------------------------------------------portfolio------------------------*/
-        .section-tem {}
-    
-        .team {}
-    
-        .team-list {}
-    
-        .team-items {}
-    
-        .team-img {}
-    
-        .clas {}
-    
-        .team-name {}
-    
-        .team-text {}
-    
-        .section-portfolio {}
-    
-        .portfolio {
+        
+        {
 
                 font-weight: 700;
                 font-size: 36px;

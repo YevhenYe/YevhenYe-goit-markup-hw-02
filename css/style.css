@@ -75,7 +75,7 @@ background: #4d5ae5;}
     font-style: normal
 }
 
-.hedear-menu-link:hover, :focus {
+.hedear-menu-link:hover, .hedear-menu-link:focus {
     color: #404bbf;
 }
 .hedear-menu-link {

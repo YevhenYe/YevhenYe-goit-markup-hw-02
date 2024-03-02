@@ -62,7 +62,7 @@ background: #4d5ae5;}
 
 .header-href:hover,
 .header-href:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 /*-----------contacts-----------------*/

@@ -51,7 +51,9 @@ background: #4d5ae5;}
         color: #2e2f42;
 }
 
-
+.header-href:hover, .header-href:focus {
+    color: #404bbf;
+}
 
 .header-href {
     color: #2e2f42;
@@ -59,10 +61,7 @@ background: #4d5ae5;}
     
 
 
-.header-href:hover,
-.header-href:focus {
-    color: #404bbf;
-}
+
 
 /*-----------contacts-----------------*/
 .header-cotacts-items {

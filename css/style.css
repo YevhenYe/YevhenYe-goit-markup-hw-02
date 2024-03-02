@@ -59,8 +59,8 @@ background: #4d5ae5;}
     
 
 
-.heder-menu-item .header-href:hover,
-.heder-menu-item .header-href:focus {
+.header-href:hover,
+.header-href:focus {
     color: #404bbf;
 }
 
@@ -188,7 +188,7 @@ background: #4d5ae5;}
     letter-spacing: 0.02em;
         }
     /*-------------------------------------------portfolio------------------------*/
-        
+        .portfolio
         {
 
                 font-weight: 700;

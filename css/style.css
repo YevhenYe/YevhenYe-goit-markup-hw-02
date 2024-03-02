@@ -15,8 +15,8 @@ ul{
 }
 button{cursor: pointer;
 background: #4d5ae5;}
-button :hover{background-color: #404BBF}
-button:focus{background-color: #404BBF}
+
+
 
 /*-------------header--------------*/
 
@@ -33,17 +33,15 @@ button:focus{background-color: #404BBF}
         text-transform: uppercase;
         color: #4d5ae5;
 }
-.hedear-menu-link{color: #434455;}
+
 
 .header-web {
-        color: #2e2f42;
+        color: #2e2f42;}
     
-}
 
 
-.heder-menu-item :hover {
-    color: #404bbf;
-}
+        /*-------------------fight-----------*/
+
 
 .heder-menu-item {
     font-size: 16px;
@@ -53,12 +51,21 @@ button:focus{background-color: #404BBF}
         color: #2e2f42;
 }
 
-.heder-contacts {
-    font-style: normal
+
+
+.header-href-studio {
+    color: #2e2f42;
 }
 
-.heder-contacts-list {}
+.header-href {
+    color: #2e2f42;
+    }
+    .studio:active{background: #404bbf;}
 
+
+.header-href:hover, .header-href:focus{color: #404bbf}
+
+/*-----------contacts-----------------*/
 .header-cotacts-items {
     font-size: 16px;
     font-weight: 400;
@@ -66,17 +73,17 @@ button:focus{background-color: #404BBF}
     letter-spacing: 0.02em;
 
 }
-
-.header-href-studio:active {
-    background: #404bbf;
+.heder-contacts {
+    font-style: normal
 }
-
-.heder-menu-list {}
 
 .hedear-menu-link:hover {
     color: #404bbf;
 }
-
+.hedear-menu-link {
+    color: #434455;
+}
+.heder-contacts-list {}
 /*-----------------HERO -------------*/
 
 .secnion-hero {
@@ -94,6 +101,11 @@ button:focus{background-color: #404BBF}
 
 
 }
+.hero-order-btn:hover, .hero-order-btn:focus {
+    background-color: #404bbf;
+}
+
+
 
 .hero-order-btn {
         font-weight: 500;
@@ -101,8 +113,8 @@ button:focus{background-color: #404BBF}
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-            
 }
+
 
 /*--------------skills---------------*/
 .section-skills{

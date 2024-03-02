@@ -57,12 +57,12 @@ background: #4d5ae5;}
 .header-href {
     color: #2e2f42;
     }
-    .studio:active{background: #404bbf;}
+    
 
 
 .header-href:hover,
 .header-href:focus {
-    background-color: #404BBF;
+    color: #404BBF;
 }
 
 /*-----------contacts-----------------*/

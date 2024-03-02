@@ -60,8 +60,10 @@ background: #4d5ae5;}
     .studio:active{background: #404bbf;}
 
 
-.header-href:hover{color: #404bbf;}
-.header-href:focus{color:#404bbf;}
+.header-href:hover,
+.header-href:focus {
+    background-color: #404BBF;
+}
 
 /*-----------contacts-----------------*/
 .header-cotacts-items {

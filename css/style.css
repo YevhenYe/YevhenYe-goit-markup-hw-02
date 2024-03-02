@@ -61,7 +61,7 @@ background: #4d5ae5;}
 
 
 .header-href:hover{color: #404bbf;}
-.header-href:focus{color: #404bbf;}
+.header-href:focus{color:#404bbf;}
 
 /*-----------contacts-----------------*/
 .header-cotacts-items {
@@ -111,6 +111,7 @@ background: #4d5ae5;}
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        font-family: inherit;
 }
 
 
